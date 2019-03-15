@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std; 
+
+
+int main(int argc, char** argv)
+{
+	cout<<"Hello word 3A713230";
+	return 0;
+}
